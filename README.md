@@ -7,3 +7,5 @@
 ![rust](https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choam2426&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choam2426)](https://solved.ac/choam2426/)
