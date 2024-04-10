@@ -2,4 +2,5 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choam2426&show_icons=true&theme=radical)
